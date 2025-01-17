@@ -1,6 +1,6 @@
 # Cheermate: Emotion Analysis with DeepFace
 
-You can access and run the notebook here:  
+You can access and run the notebook (Google Colab) here:  
 [Colab Notebook](https://colab.research.google.com/drive/1KwhR8GdiZZasZMRWnaxDfjz-1sMbSGhd?usp=sharing)
 
 ---
