@@ -9,7 +9,7 @@ You can access and run the notebook (Google Colab) here:-
 
 Cheermate is a real-time emotion analysis system that utilizes **DeepFace**, a deep learning model for facial emotion recognition. The project aims to detect emotions based on a user's facial expressions captured via a webcam and respond with a personalized message and a GIF to cheer them up.
 
-This is a **Data Science Project** because it involves the collection, processing, and analysis of data (in the form of images), applying machine learning models for emotion prediction, and providing insights based on the results.
+This is a **Data Science Project** because it involves the collection, processing, and analysis of data (in the form of images), applying machine learning models for emotion prediction, and providing insights based on the results..
 
 ---
 
